@@ -1,0 +1,6 @@
+Change Log:
+
+1) Use student web schema in data model.
+2) Add enforcement chart at Part E in ERdesign.pdf.
+3) Add normalization document.(Normalization_of entities.pdf)
+4) Minor change in data model which corresponding to data normalization.

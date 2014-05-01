@@ -1,0 +1,621 @@
+MOVIE_MovieID,Country
+11,"United States of America"
+12,Australia
+12,"United States of America"
+13,"United States of America"
+18,France
+22,"United States of America"
+58,"United States of America"
+78,"Hong Kong"
+78,"United Kingdom"
+78,"United States of America"
+82,"United States of America"
+85,"United States of America"
+89,"United States of America"
+98,Malta
+98,Morocco
+98,"United Kingdom"
+98,"United States of America"
+105,"United States of America"
+115,"United Kingdom"
+115,"United States of America"
+120,"New Zealand"
+120,"United States of America"
+121,"New Zealand"
+121,"United States of America"
+122,"New Zealand"
+122,"United States of America"
+129,Japan
+152,"United States of America"
+154,"United States of America"
+155,"United Kingdom"
+155,"United States of America"
+161,"United States of America"
+200,"United States of America"
+218,"United Kingdom"
+218,"United States of America"
+238,"United States of America"
+240,"United States of America"
+241,"United States of America"
+242,Italy
+242,"United States of America"
+272,"United Kingdom"
+272,"United States of America"
+277,Germany
+277,Hungary
+277,"United Kingdom"
+277,"United States of America"
+278,"United States of America"
+280,France
+280,"United States of America"
+285,"United States of America"
+296,Germany
+296,"United Kingdom"
+296,"United States of America"
+329,"United States of America"
+330,"United States of America"
+331,"United States of America"
+348,"United Kingdom"
+348,"United States of America"
+425,"United States of America"
+453,"United States of America"
+500,"United States of America"
+510,"United States of America"
+534,Germany
+534,Italy
+534,"United Kingdom"
+534,"United States of America"
+550,Germany
+550,"United States of America"
+557,"United States of America"
+558,"United States of America"
+559,"United States of America"
+562,"United States of America"
+597,"United States of America"
+603,Australia
+603,"United States of America"
+646,Jamaica
+646,"United Kingdom"
+671,"United Kingdom"
+671,"United States of America"
+679,"United Kingdom"
+679,"United States of America"
+680,"United States of America"
+755,"United States of America"
+767,"United Kingdom"
+767,"United States of America"
+769,"United States of America"
+808,"United States of America"
+809,"United States of America"
+812,"United States of America"
+834,"United States of America"
+840,"United States of America"
+857,"United States of America"
+862,"United States of America"
+920,"United States of America"
+950,"United States of America"
+953,"United States of America"
+1103,"United Kingdom"
+1103,"United States of America"
+1124,"United States of America"
+1248,"Czech Republic"
+1248,France
+1248,Italy
+1248,"United Kingdom"
+1271,"United States of America"
+1417,Mexico
+1417,Spain
+1422,"Hong Kong"
+1422,"United States of America"
+1487,"United States of America"
+1571,"United States of America"
+1572,"United States of America"
+1573,"United States of America"
+1576,"United States of America"
+1577,Canada
+1577,France
+1577,Germany
+1577,"United Kingdom"
+1588,"United States of America"
+1593,"United Kingdom"
+1593,"United States of America"
+1724,"United States of America"
+1726,"United States of America"
+1734,"United States of America"
+1735,Canada
+1735,China
+1735,Germany
+1735,"United States of America"
+1771,"United States of America"
+1830,France
+1830,Germany
+1830,"United States of America"
+1858,"United States of America"
+1865,"United States of America"
+1891,"United States of America"
+1892,"United States of America"
+1893,"United States of America"
+1894,"United States of America"
+1895,"United States of America"
+1930,"United States of America"
+1965,"United States of America"
+1992,"United States of America"
+1995,"United States of America"
+1996,Germany
+1996,Japan
+1996,"United Kingdom"
+1996,"United States of America"
+2062,"United States of America"
+2080,"United States of America"
+2105,"United States of America"
+2493,"United States of America"
+2501,"Czech Republic"
+2501,Germany
+2501,"United States of America"
+2502,Germany
+2502,"United States of America"
+2503,Germany
+2503,"United States of America"
+2649,"United States of America"
+2770,"United States of America"
+2787,Australia
+2789,"United States of America"
+3071,"United Kingdom"
+3511,France
+3511,"United Kingdom"
+4133,"United States of America"
+4538,"United States of America"
+4638,"United Kingdom"
+5689,"United States of America"
+7443,"United Kingdom"
+7737,Australia
+7737,France
+7737,Germany
+7737,"United Kingdom"
+7737,"United States of America"
+8054,France
+8054,"United Kingdom"
+8054,"United States of America"
+8273,"United States of America"
+8274,"United States of America"
+8275,"United States of America"
+8277,"United States of America"
+8355,"United States of America"
+8373,"United States of America"
+8409,"United States of America"
+8587,"United States of America"
+8681,France
+8681,"United Kingdom"
+8681,"United States of America"
+8698,"Czech Republic"
+8698,Germany
+8698,"United Kingdom"
+8698,"United States of America"
+8871,Germany
+8871,"United States of America"
+9257,"United States of America"
+9339,"United States of America"
+9361,"United States of America"
+9381,France
+9381,"United Kingdom"
+9473,"United States of America"
+9506,"United States of America"
+9543,"United States of America"
+9615,Japan
+9615,"United States of America"
+9762,"United States of America"
+9799,"United States of America"
+9839,Germany
+9839,"United States of America"
+9902,Germany
+9902,"United States of America"
+10138,"United States of America"
+10191,"United States of America"
+10192,"United States of America"
+10193,"United States of America"
+10195,"United States of America"
+10196,"United States of America"
+10307,"United States of America"
+10328,"United States of America"
+10527,"United States of America"
+10681,"United States of America"
+10764,"United Kingdom"
+10764,"United States of America"
+11238,"United States of America"
+11322,"United States of America"
+11324,"United States of America"
+11430,Australia
+11430,"United States of America"
+11452,"United States of America"
+11619,"United Kingdom"
+11619,"United States of America"
+11824,"United States of America"
+12105,"United Kingdom"
+12192,"United States of America"
+12437,"United States of America"
+12444,"United Kingdom"
+12444,"United States of America"
+12445,"United States of America"
+12573,France
+12573,"United Kingdom"
+12573,"United States of America"
+13053,"United States of America"
+13179,"United States of America"
+13475,Germany
+13475,"United States of America"
+13804,"United States of America"
+13995,"United States of America"
+14160,"United States of America"
+14161,Canada
+14161,"United States of America"
+14756,"Hong Kong"
+14869,"United States of America"
+15357,France
+15512,"United States of America"
+16164,"United States of America"
+16577,"Hong Kong"
+16577,Japan
+16577,"United States of America"
+16710,"United States of America"
+16781,"United States of America"
+16869,Germany
+16869,"United States of America"
+18823,"United States of America"
+19913,"United States of America"
+19995,"United Kingdom"
+19995,"United States of America"
+20352,"United States of America"
+20504,"United States of America"
+20526,"United States of America"
+20676,"United States of America"
+21385,"United States of America"
+24021,"United States of America"
+24253,Sweden
+24428,"United States of America"
+25475,"United States of America"
+26123,"United States of America"
+26367,"United States of America"
+26963,Belgium
+26963,France
+26963,Ireland
+27205,"United States of America"
+27578,"United States of America"
+32261,"United Kingdom"
+34673,Sweden
+35791,France
+35791,Germany
+35791,"United States of America"
+36557,"Czech Republic"
+36557,Germany
+36557,"United Kingdom"
+36557,"United States of America"
+36657,"United States of America"
+36658,"United States of America"
+36668,Canada
+36668,"United Kingdom"
+36668,"United States of America"
+36669,"United Kingdom"
+36669,"United States of America"
+37165,"United States of America"
+37233,"United States of America"
+37632,Aruba
+37632,"United States of America"
+37724,"United Kingdom"
+37724,"United States of America"
+38055,"United States of America"
+38356,"United States of America"
+38365,"United States of America"
+39514,Canada
+39514,"United States of America"
+39928,Spain
+41154,"United States of America"
+41283,"United States of America"
+41602,"United States of America"
+42189,"United States of America"
+44683,"United States of America"
+44833,"United States of America"
+44896,"United States of America"
+46195,"United States of America"
+47964,"United States of America"
+49013,"United States of America"
+49026,"United States of America"
+49040,"United States of America"
+49047,"United Kingdom"
+49047,"United States of America"
+49051,"New Zealand"
+49051,"United States of America"
+49519,"United States of America"
+49521,Canada
+49521,"United Kingdom"
+49521,"United States of America"
+49524,"United States of America"
+49529,"United States of America"
+49538,"United States of America"
+50444,France
+50546,"United States of America"
+50619,"United States of America"
+51017,"United States of America"
+51497,"United States of America"
+52520,"United States of America"
+53182,"United States of America"
+54138,"United States of America"
+54441,Italy
+56292,"United Arab Emirates"
+56292,"United States of America"
+57158,"New Zealand"
+57158,"United States of America"
+57165,"United States of America"
+57201,"United States of America"
+57800,"United States of America"
+58244,Canada
+58244,France
+58244,"United States of America"
+58574,"United States of America"
+59951,"United Kingdom"
+59962,"United States of America"
+59967,China
+59967,"United States of America"
+62177,"United States of America"
+62211,"United States of America"
+64635,Canada
+64635,"United States of America"
+64682,Australia
+64682,"United States of America"
+64686,Hungary
+64686,"United Kingdom"
+64686,"United States of America"
+64807,"United States of America"
+65291,"United States of America"
+68718,"United States of America"
+68721,China
+68721,"United States of America"
+68724,"United States of America"
+68726,Canada
+68726,"United States of America"
+68728,"United States of America"
+68734,"United States of America"
+70160,"United States of America"
+70981,"United Kingdom"
+70981,"United States of America"
+71552,"United States of America"
+71676,"United Arab Emirates"
+71676,"United States of America"
+71679,Canada
+71679,Germany
+72190,"United Kingdom"
+72190,"United States of America"
+72331,"United States of America"
+72559,"United States of America"
+72710,"United States of America"
+74461,"United States of America"
+74510,"United States of America"
+75258,"United States of America"
+75612,"United States of America"
+75656,France
+75656,"United States of America"
+75780,"United States of America"
+76101,"United States of America"
+76163,"United States of America"
+76170,"United States of America"
+76203,"United States of America"
+76285,"United States of America"
+76338,"United States of America"
+76492,"United States of America"
+76589,"United States of America"
+76640,"United States of America"
+77338,France
+77663,Belgium
+77663,"United States of America"
+77931,"United States of America"
+77950,"United States of America"
+77951,Australia
+77951,"United Kingdom"
+77951,"United States of America"
+78383,"United States of America"
+79067,Germany
+80274,"United States of America"
+80321,"United States of America"
+81005,"United States of America"
+81452,Japan
+82675,France
+82684,"United States of America"
+82690,"United States of America"
+82693,"United States of America"
+82700,"United States of America"
+82992,"United States of America"
+83542,Germany
+83542,"Hong Kong"
+83542,Singapore
+83542,"United States of America"
+85446,"United States of America"
+85889,"United Kingdom"
+86130,"United States of America"
+86331,France
+86829,France
+86829,"United Kingdom"
+86829,"United States of America"
+86834,"United States of America"
+87101,"United States of America"
+87421,"United States of America"
+87502,"United States of America"
+87516,"United States of America"
+87827,Taiwan
+87827,"United Kingdom"
+87827,"United States of America"
+91314,"United States of America"
+91586,"United States of America"
+93456,"United States of America"
+96721,Germany
+96721,"United Kingdom"
+96721,"United States of America"
+97020,"United States of America"
+97630,"United States of America"
+100241,Australia
+100241,"United States of America"
+100402,"United States of America"
+100542,Malaysia
+101286,"United States of America"
+101299,"United States of America"
+106646,"United States of America"
+107846,"United States of America"
+107985,"United Kingdom"
+109091,"United States of America"
+109417,"United States of America"
+109424,"United States of America"
+109439,"United States of America"
+109443,"United States of America"
+109445,"United States of America"
+109451,"United States of America"
+110414,Belgium
+110414,Denmark
+110414,France
+110414,Germany
+110415,"Czech Republic"
+110415,France
+110415,"Korea, Republic of"
+110415,"United States of America"
+111473,"United Kingdom"
+112205,France
+112205,"United States of America"
+115283,"United States of America"
+115782,"United States of America"
+116711,"United States of America"
+116741,"United States of America"
+116745,"United States of America"
+117251,"United States of America"
+117263,"United States of America"
+119283,"United States of America"
+119892,China
+121640,Israel
+121640,"United Kingdom"
+121734,Spain
+122906,"United Kingdom"
+123553,"United States of America"
+124905,"United States of America"
+125509,"United States of America"
+126250,Denmark
+126250,France
+126250,Germany
+126250,Italy
+126250,Sweden
+127585,Canada
+129670,"United States of America"
+132344,Greece
+132344,"United States of America"
+132363,"United States of America"
+133805,"United States of America"
+134374,"United States of America"
+135397,"United States of America"
+136400,"United States of America"
+136418,"United Kingdom"
+136418,"United States of America"
+136795,"United States of America"
+137093,"United States of America"
+137106,"United States of America"
+137321,"United States of America"
+138697,"United States of America"
+138832,"United States of America"
+138843,"United States of America"
+140823,Australia
+140823,"United Kingdom"
+140823,"United States of America"
+146216,"United States of America"
+146223,"United Kingdom"
+146223,"United States of America"
+146233,"United States of America"
+146238,"United States of America"
+146239,"United States of America"
+146243,"United States of America"
+146381,Spain
+151960,"United States of America"
+152532,"United States of America"
+152601,"United States of America"
+152737,"United States of America"
+152742,Italy
+155084,"United States of America"
+156717,"United States of America"
+157099,"United States of America"
+157350,"United States of America"
+160139,Germany
+160139,Portugal
+160139,Switzerland
+160588,"United States of America"
+162903,"United States of America"
+164457,"United States of America"
+168672,"United States of America"
+169298,"United States of America"
+169881,Germany
+171759,"United States of America"
+171776,"United States of America"
+172385,"United States of America"
+172391,"South Africa"
+172631,"United States of America"
+173897,Australia
+173897,Canada
+173897,Germany
+174378,Germany
+174378,Ireland
+175112,"United States of America"
+175291,"United States of America"
+175555,"United States of America"
+175574,"United States of America"
+177494,"United States of America"
+181009,China
+181009,"Hong Kong"
+187010,"United States of America"
+188207,"United States of America"
+190955,France
+190955,"United States of America"
+192136,"South Africa"
+192136,"United Kingdom"
+193756,"United States of America"
+199373,"United States of America"
+201066,"United States of America"
+202214,Portugal
+203833,"United States of America"
+204082,"United States of America"
+205220,"United Kingdom"
+205724,"Puerto Rico"
+205724,"United Kingdom"
+205724,"United States of America"
+207323,Denmark
+208134,"United States of America"
+209247,Canada
+209263,"United States of America"
+209406,Canada
+210047,"United States of America"
+211449,"United States of America"
+214140,"United States of America"
+217316,"United States of America"
+217993,"United States of America"
+225747,"United Kingdom"
+227348,"United States of America"
+227783,Canada
+227783,"Korea, Republic of"
+230222,Germany
+230896,"United States of America"
+240916,Italy
+240916,Kuwait
+240916,Netherlands
+240916,"United States of America"
+242042,"United States of America"
+242076,Bahamas
+242076,"United States of America"
+244688,"United States of America"
+248268,"United States of America"
+249397,Belgium
+249397,Denmark
+249397,France
+249397,Germany
+249397,"United Kingdom"
+253046,"United States of America"
+254263,"United States of America"
+255491,"United States of America"
+255718,"United States of America"
+256731,"United States of America"
+258216,Belgium
+258216,Denmark
+258216,France
+258216,Germany
+258216,"United Kingdom"
+260203,"New Zealand"
